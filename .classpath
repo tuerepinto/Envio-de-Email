@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="Lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="Lib/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="Lib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="Lib/sendgrid-java-2.2.2 (1).jar"/>
+	<classpathentry kind="lib" path="Lib/smtpapi-java-1.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
