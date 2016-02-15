@@ -1,6 +1,7 @@
 package br.com.envio.email.controller;
 
 import com.sendgrid.SendGrid;
+import com.sendgrid.SendGrid.Email;
 import com.sendgrid.SendGrid.Response;
 
 public class EmailController {
