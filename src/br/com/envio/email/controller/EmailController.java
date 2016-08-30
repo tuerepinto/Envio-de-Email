@@ -7,7 +7,7 @@ import com.sendgrid.SendGrid.Response;
 public class EmailController {
 		
 	private static final String API_KEY = 
-			"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";
+			"";
 	
 	public static void SendEmail (Email email){
 		try {
